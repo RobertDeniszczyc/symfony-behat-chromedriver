@@ -1,4 +1,4 @@
-Symfony2 with Behat and ChromeDriver support
+Symfony with Behat and ChromeDriver support
 ========================
 
 Welcome to Symfony with Behat and ChromeDriver support - a fully-functional Symfony
